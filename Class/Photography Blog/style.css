@@ -33,6 +33,7 @@ div img:hover{
     opacity: 0.5;
     cursor: pointer;
     filter: grayscale(80%);
+    
 }
 
 /* nav styling: */
